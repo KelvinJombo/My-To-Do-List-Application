@@ -1,0 +1,22 @@
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\bin\Debug\net6.0\ToDoList5.Model.deps.json
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\bin\Debug\net6.0\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\bin\Debug\net6.0\ToDoList5.Model.pdb
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\refint\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.pdb
+C:\Users\HP\OneDrive\Desktop\week-5-task-KelvinJombo\ToDoList5.Model\obj\Debug\net6.0\ref\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\bin\Debug\net6.0\ToDoList5.Model.deps.json
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\bin\Debug\net6.0\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\bin\Debug\net6.0\ToDoList5.Model.pdb
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\refint\ToDoList5.Model.dll
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ToDoList5.Model.pdb
+C:\Users\HP\OneDrive\Desktop\To Do Repo\My-To-Do-List-Application\ToDoList5.Model\obj\Debug\net6.0\ref\ToDoList5.Model.dll

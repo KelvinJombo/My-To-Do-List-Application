@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\bin\Debug\net6.0\ToDoList.Commons.deps.json
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\bin\Debug\net6.0\ToDoList.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\bin\Debug\net6.0\ToDoList.Commons.pdb
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\refint\ToDoList.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ToDoList.Commons.pdb
+C:\Users\HP\OneDrive\Desktop\Codes\ToDoList5\ToDoList.Commons\obj\Debug\net6.0\ref\ToDoList.Commons.dll
